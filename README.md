@@ -1,0 +1,1 @@
+Checkout Resource API for ApplaudoStudios Trainee Program Final Project
